@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @BoyPika
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning java
-- 📫 How to reach me Discord at BoyPika#2359
+Just open the zip file and enjoy!
